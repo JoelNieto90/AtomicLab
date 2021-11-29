@@ -1,0 +1,18 @@
+@import './App.scss';
+
+.button{
+    background-color: $font-color-Orange;
+    color: #F2EBEF;
+    cursor: pointer;
+    border-radius: 45px;
+    padding: 8px 50px;
+    opacity: 0.4;
+    font-size: calc(0.5em + 0.5vw);
+}
+
+.button:valid {
+  color: #031D25;
+  background-color: $font-color-Orange;
+}
+
+

@@ -1,0 +1,24 @@
+@import "./Media.scss";
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;600;700;900&display=swap');
+
+/*Paleta de Colores*/
+$Color-Fondo-Home: url('../assets/Mask\ Group\ 1@2x.png');
+//$Color-Fondo-Home: url('../Captura.PNG');
+//$Color-Fondo-Home: red;
+//$Color-Fondo-Home: red;
+$Color-NavBar: linear-gradient(#e0e5e9 20%, #ebebeb 100%);
+$font-white: #F2EBEF;
+$font-black: #080105;
+$font-color-Orange: #ec550f;
+$font-blueligth: #207fcc;
+$font-color-NavBar: #ffffff;
+
+/*Font Family*/
+$weight1: 200;
+$weight2: 300;
+$weight3: 400;
+$weight4: 600;
+$weight5: 700;
+$weight6: 900;
+$Source-Pro: 'Source Sans Pro', sans-serif;

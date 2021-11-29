@@ -1,0 +1,12 @@
+@import "./App.scss";
+
+.NavBar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-left: 7.5%;
+  margin-top: 10px;
+  &_img {
+    height: 80px;
+  }
+}

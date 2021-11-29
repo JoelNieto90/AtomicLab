@@ -1,0 +1,23 @@
+@import './App.scss';
+
+.footer {
+  display: flex;
+  flex-direction:row;
+  align-items: flex-end;
+  height: 50px;
+  background-size: 25px;
+  padding-left: 20px;
+  background: $font-black;
+  font-size: 16px;
+  font-weight: $weight5;
+  &_p1 {
+    margin-left: 6.5%;
+  }
+  &_p2 {
+    margin-left: 28%;
+  }
+  &_img {
+    width: 25px;
+    margin-left:6%;
+  }
+}
